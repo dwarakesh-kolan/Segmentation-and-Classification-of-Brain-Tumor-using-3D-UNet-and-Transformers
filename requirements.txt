@@ -1,4 +1,4 @@
-python3.10
+python 3.10.7
 
 
 pip install h5py==3.10.0
@@ -20,4 +20,3 @@ pip install scikit-learn==1.2.2
 pip install scipy==1.11.3
 pip install seaborn==0.10.1
 pip install tensorflow==2.14.0
-
